@@ -27,5 +27,7 @@ YOLO Algorithm:
 
 The YOLO algorithm only needs to run the entire image once through the CNN once, while the sliding window algorithm is much more computationally expensive. 
 YOLO uses features from the entire image to predict each bounding box and their classes which it does simultaneously.
-Similar to humans, YOLO can pretty much immediately recognize where and what objects are within a given image
+Similar to humans, YOLO can pretty much immediately recognize where and what objects are within a given image.
+![image](https://user-images.githubusercontent.com/80278260/124706175-7cbc7e80-df14-11eb-9aa0-5e2fba804ba0.png)
+
 
